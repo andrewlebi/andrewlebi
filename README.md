@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1" width="1200" alt="repo-banner">
 </p>
 
-<h3 align="center">Languages, Frameworks, & Tools</h3>
+<h3 align="center">Languages, Frameworks, & Tools:</h3>
 <p align="center" style="margin: 10px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
